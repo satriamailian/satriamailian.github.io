@@ -14,7 +14,7 @@ Node.js (8.0.0+)
 Clone this repository.
 
 ```sh
-git clone https://github.com/KodeSoft/landing-page
+git clone https://github.com/satriamailian/satriamailian.github.io
 ```
 
 ```sh
